@@ -1,49 +1,88 @@
-### Dear Everyone 👋
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Welcome To My Profile. </h1>
+<p align="center">
+  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20developing%20experience;&center=true&width=800&height=60"></a>
+</p>
 
-Hi, I am a senior fullstack developer who is specialized in web and blockchain development.
-In recent years, I have contributed to several companies and development teams, helping them to achieve many successes in their businesses and development projects.
-Now I am full time available, and ready for a new challenge.
-After graduating the university, I have been focusing on improving my dev skills, and through many projects I checked about them.
-Nowadays I am passionate about blockchain technologies so that I could give helps on development to the several businesses.
-Looking forward to hearing from you.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
+<br />
 
-- 🤔 I’m looking to help with building web and mobile apps
-- 🌱 I’m currently learning blockchain technologies
-- 💬 Ask me about web and blockchain development changes
-- ⚡ Fun fact: ...
+<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+  <p>
+  Experienced Web Developer adept in all stages of advanced web development with 8+ years experience building smart websites and 5+ years working with Blockchain 
+  technologies. Quickly learn and master new technologies and working in both team and self-directed settings. Adept at contributing to a highly collaborative work 
+  environment, finding solutions, and determining customer satisfaction. As a problem solver, I always strive to deliver good value to clients and works very well with 
+  team members.
+  </p>
 
 
-### Languages and Tools:
+### 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+ 
+- **DApps & Online Betting Website**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+- **Smart Contract & Crypto**
 
-#### Blockchain Development
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+- **Full Stack web pages like eCommerce**
+##
 
-#### Web & Mobile Development
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+**Languages and Tools :**  
 
-#### Other
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="auto" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></td>
+   </tr>
+   <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="auto"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="auto"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></td>
+   </tr>
+  </table>
+<br />
+ 💻 GitHub Stats
 
-### Find me elsewhere 🌎
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/steve-jin-102509205/)  -->
+<table width="100%">
+    <tr>
+        <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=OlekSytn&show_icons=true&hide_border=true" /> 
+        </td>
+        <td> 
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlekSytn&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+        </td>
+    </tr>
+    <table>
+    <div align="center"  width="100%">
+        <img src="https://github-profile-trophy.vercel.app/?username=OlekSytn&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
+    </div>
+    <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
