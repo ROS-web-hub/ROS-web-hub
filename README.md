@@ -61,6 +61,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="auto" /></td>
    </tr>
    <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="auto" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /></td>
