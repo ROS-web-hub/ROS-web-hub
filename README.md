@@ -15,20 +15,19 @@
   </p>
 
 
-### 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+******<b>𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨<b/>******
 
-- **Mern, Mevn, Mean Stack web pages**
+✨ Mern, Mevn, Mean Stack website development
 
-- **Java web pages**
+✨ Java website development
 
-- **PHP web pages**
+✨ PHP website development
 
-- **DApps & Online Website**
+✨ DApp DEX development
 
-- **Smart Contract & Crypto**
+✨ Smart Contract development
 
 
-##
 
 **Languages and Tools :**  
 
