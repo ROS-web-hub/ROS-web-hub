@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;7+%2B%20years%20of%20development%20experience;&center=true&width=800&height=60"></a>
+  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;%20Full%20Stack%20Developer;7+%2B%20years%20of%20development%20experience;&center=true&width=800&height=60"></a>
 </p>
 
 <br />
